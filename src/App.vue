@@ -19,6 +19,6 @@
 
 <style lang="scss">
 a-text:active {
-      color: #42b983;
-    }
+  color: #42b983;
+}
 </style>
